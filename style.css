@@ -1,0 +1,27 @@
+body{
+    background: #d3d3d3;
+    min-height: 100vh;
+}
+
+.bloco-center {
+    width: 30%;
+    margin: auto;
+    margin-top: 10vh
+}
+
+.bloco-center > div {
+    width: 100%;
+    margin: auto;
+    text-align: center
+}
+
+button {
+    width: 28%;
+    height: 20vh;
+    font-size: 25px;
+    margin: 10px
+}
+
+h6, h5{
+    text-align: center
+}
